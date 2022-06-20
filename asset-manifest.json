@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/Investo-React/static/css/main.d7da34c1.css",
-    "main.js": "/Investo-React/static/js/main.fc8cd9c1.js",
+    "main.js": "/Investo-React/static/js/main.6082a89f.js",
     "static/media/video.mp4": "/Investo-React/static/media/video.7d1ea6a94986d5c2a068.mp4",
     "static/media/about.svg": "/Investo-React/static/media/about.d5e3f26474dc4f0c1049acc7325e1fb7.svg",
     "static/media/guideImage.svg": "/Investo-React/static/media/guideImage.7c5af50e31c2b801eeb4006c7efe38b7.svg",
     "static/media/discoverImage.svg": "/Investo-React/static/media/discoverImage.44fd24324ae97074c6d9fa4404ee348a.svg",
     "index.html": "/Investo-React/index.html",
     "main.d7da34c1.css.map": "/Investo-React/static/css/main.d7da34c1.css.map",
-    "main.fc8cd9c1.js.map": "/Investo-React/static/js/main.fc8cd9c1.js.map"
+    "main.6082a89f.js.map": "/Investo-React/static/js/main.6082a89f.js.map"
   },
   "entrypoints": [
     "static/css/main.d7da34c1.css",
-    "static/js/main.fc8cd9c1.js"
+    "static/js/main.6082a89f.js"
   ]
 }
